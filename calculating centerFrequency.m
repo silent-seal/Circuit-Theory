@@ -1,5 +1,5 @@
 % EE233 Lab 4 Matlab code
-% Last date of updating: May 14, 2014
+% 
 %
 % This program is used for calculate center frequcies in EE233 Lab 4
 % All parameters (R1, R2, R3, R4, R5, gama, minfreq, maxfreq) could be set
